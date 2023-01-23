@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="TestCameraIOs.app/TestCameraIOs">
+      <BCSymbolMapName>TestCameraIOs.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>TestCameraIOs.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\gersonperez\Library\Caches\Xamarin\mtbs\builds\TestCameraIOs\e3bb0c22e97fe747fb10e21f7b2f03c90920455ff5418f0afb8178200cafa5eb\obj\Debug\net7.0-ios\iossimulator-x64\mtouch-symbols.list</SymbolFile>
+      <DSymName>TestCameraIOs.app.dSYM</DSymName>
+      <SourceProjectPath>C:\Users\perez\Intelcom\SampleApp\TestCameraIOs\TestCameraIOs</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
